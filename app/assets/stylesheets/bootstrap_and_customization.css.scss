@@ -1,1 +1,12 @@
+$body-bg: #ecf0f1;
+$navbar-inverse-bg: #27ae60;
+$navbar-inverse-link-color: white; 
+$brand-primary: #f39c12;
+$jumbotron-bg: #bdc3c7;
 @import 'bootstrap';
+
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap
+//= require turbolinks
+//= require_tree .
