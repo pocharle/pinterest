@@ -8,7 +8,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
-gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '2.1-stable'
+gem 'bootstrap-sass', '~> 3.0.3.0'
 
 group :doc do
   gem 'sdoc', require: false
